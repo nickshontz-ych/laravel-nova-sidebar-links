@@ -1,5 +1,5 @@
 {
-    "name": "gabrieliuga/laravel-nova-sidebar-links",
+    "name": "/nickshontz-ych/laravel-nova-sidebar-links",
     "description": "Allow definition of custom links on Laravel Nova sidebar.",
     "keywords": [
         "laravel",
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4.0",
+        "php": ">=7.3.0",
         "laravel/framework": ">=6.2",
         "laravel/nova": ">=2.9"
     },
